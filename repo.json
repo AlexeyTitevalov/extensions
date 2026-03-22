@@ -1,7 +1,7 @@
 {
   "meta": {
-    "name": "Keiyoushi",
-    "website": "https://keiyoushi.github.io",
-    "signingKeyFingerprint": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2"
+    "name": "Keiyoushi fork for senkuro only",
+    "website": "https://github.com/AlexeyTitevalov/extensions/",
+    "signingKeyFingerprint": "27c37caa3678a53bbc9827652181e1dc1e5b1d3eb3b11bee4ae370cb313ac3e5"
   }
 }
